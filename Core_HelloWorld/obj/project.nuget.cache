@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzAFwybuG+IPegXcmdTpqvHOADOWhGqoKn+LDEZ7aQFKGMdXMiItw50TjRWV/wTyazzioJTW4+VIVQB+km6Nfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bulus\\GithubActionsPractice\\TestProject2\\Core_HelloWorld\\Core_HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bulus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
